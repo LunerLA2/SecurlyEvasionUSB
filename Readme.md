@@ -5,3 +5,8 @@ This repo aims to provide information and methods to evade Securly, I am always 
 ## **Why?**
 
 I believe that Securly is a violation of privacy. It imposes restrictions that can interfere with personal freedom and autonomy, monitoring internet activities and blocking access to various websites. This kind of surveillance can lead to a lack of trust, hinder free exploration and learning, and may violate individual rights to privacy. Users should have the ability to control their own internet experience without invasive monitoring. Therefore, this repo is designed to help users regain their digital autonomy by bypassing Securly's restrictions.
+
+
+## Why does this require a USB? Cant I just download the files onto my chromebook?
+
+Securly does file checks [Depending on your school organizations settings], for weird some reason these file checks dont include USBs. 
